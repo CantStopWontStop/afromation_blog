@@ -1,0 +1,142 @@
+baseURL: https://demo.gethugothemes.com/bookworm-light/
+title: Bookworm - Personal Blog Template
+theme: bookworm-light
+paginate: '5'
+summaryLength: '20'
+googleAnalytics: ''
+disqusShortname: themefisher-template
+module:
+  hugoVersion:
+    extended: yes
+    min: 0.87.0
+imaging:
+  quality: '95'
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+params:
+  author: Themefisher
+  contact_form_action: '#'
+  cookies:
+    enable: no
+    expire_days: 2
+  copyright: Designed & Developed By [Gethugothemes](https://gethugothemes.com/)
+  description: This is meta description
+  favicon: images/favicon.png
+  instafeed:
+    access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
+    enable: no
+    instagram_user: bookworm
+  logo: images/logo.png
+  logo_width: 200px
+  mainSections: blog
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/line-awesome/css/line-awesome.min.css
+      - link: https://fonts.googleapis.com/css2?family=Mulish:wght@500;600;700;800;900&display=swap
+    js:
+      - link: plugins/jquery/jquery.min.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/instagram-feed/instagram-feed.js
+      - link: plugins/search/fuse.min.js
+      - link: plugins/search/mark.js
+      - link: plugins/search/search.js
+  preloader:
+    enable: no
+    preloader: ''
+  search: yes
+  social:
+    - icon: lab la-facebook-f
+      url: https://www.facebook.com/
+    - icon: lab la-twitter
+      url: https://www.twitter.com/
+    - icon: lab la-instagram
+      url: https://www.instagram.com/
+    - icon: lab la-linkedin-in
+      url: https://www.linkedin.com/
+  subscription:
+    enable: yes
+    input_placeholder: Enter your email
+    mailchimp_form_action: https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074
+    mailchimp_form_name: b_463ee871f45d2d93748e77cad_a0a2c6d074
+    title: Subscribe for our monthly newsletter.
+  variables:
+    black: '#000000'
+    color_primary: '#01AD9F'
+    dark: '#152035'
+    font_primary: Mulish
+    gray: '#747577'
+    h1: 64px
+    h1_lg: 52px
+    h1_md: 42px
+    h2: 38px
+    h2_md: 30px
+    h3: 30px
+    h3_md: 24px
+    h4: 24px
+    h5: 18px
+    h6: 16px
+    light: '#FAFAFA'
+    white: '#ffffff'
+menu:
+  footer:
+    - name: About
+      url: about/
+      weight: 1
+    - name: Authors
+      url: author/
+      weight: 2
+    - name: Privacy
+      url: privacy/
+      weight: 3
+    - name: Terms & Conditions
+      url: terms-conditions/
+      weight: 4
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: about/
+      weight: 3
+    - name: Contact
+      url: contact/
+      weight: 4
+    - name: Buy Premium
+      url: https://gethugothemes.com/products/bookworm/
+      weight: 5
+    - hasChildren: yes
+      name: Pages
+      url: '#'
+      weight: 6
+    - name: Author
+      parent: Pages
+      url: author/
+      weight: 1
+    - name: Tags
+      parent: Pages
+      url: tags/
+      weight: 2
+    - name: Category
+      parent: Pages
+      url: categories/
+      weight: 3
+    - name: Elements
+      parent: Pages
+      url: elements/
+      weight: 4
+    - name: Privacy
+      parent: Pages
+      url: privacy/
+      weight: 5
+    - name: Terms & Conditions
+      parent: Pages
+      url: terms-conditions/
+      weight: 6

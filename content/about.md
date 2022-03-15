@@ -1,0 +1,39 @@
+---
+caption:
+  enable: true
+  title: I’m Henara Colii, A content writer based in LDN, currently at Bookworm.
+draft: false
+image: images/about.jpg
+layout: about
+social:
+  enable: true
+  social_links:
+  - icon: lab la-facebook-f
+    link: https://www.facebook.com/
+  - icon: lab la-twitter
+    link: https://www.twitter.com/
+  - icon: lab la-linkedin-in
+    link: https://www.linkedin.com/
+  - icon: lab la-github
+    link: https://www.github.com/
+title: About
+what_i_do:
+  enable: true
+  item:
+  - description: Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus
+      eget ipsum elementum venenatis.
+    icon: las la-pen-nib
+    title: Content Writing
+  - description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
+      non purus eget ipsum elementum venenatis.
+    icon: las la-camera
+    title: Photography
+  - description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
+      non purus eget ipsum elementum venenatis.
+    icon: lar la-snowflake
+    title: Web Research
+  title: What I Do
+---
+A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
+
+Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
