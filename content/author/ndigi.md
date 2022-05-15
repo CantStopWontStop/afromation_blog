@@ -2,7 +2,7 @@
 date: "2021-01-26T10:14:19+06:00"
 draft: false
 email: contact@afromation.io
-image: images/afromation_favicon.png
+image: images/author/ndigi.jpg 
 social:
 - icon: la-facebook-f
   link: https://facebook.com
@@ -10,7 +10,7 @@ social:
   link: https://twitter.com
 - icon: la-linkedin-in
   link: https://linkedin.com
-title: Ndigi Dumbuya
+title: Ndigi
 ---
 
-Pan-African | Revolutionary | Educator | Digital Storyteller
+Pan-African | Revolutionary | Educator | Storyteller | Data Scientist

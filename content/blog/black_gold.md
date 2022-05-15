@@ -1,5 +1,5 @@
 ---
-author: Ndigi Dumbuya
+author: Ndigi
 categories:
 - LifeStyle
 date: "2021-02-03T16:56:47+06:00"

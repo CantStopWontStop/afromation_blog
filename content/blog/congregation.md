@@ -1,5 +1,5 @@
 ---
-author: Ndigi Dumbuya
+author: Ndigi
 categories:
 - Accessories
 date: "2021-02-02T16:56:47+06:00"

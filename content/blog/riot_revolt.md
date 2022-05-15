@@ -1,5 +1,5 @@
 ---
-author: Afromation Digital
+author: Ndigi
 categories:
 - Photography
 date: "2021-01-24T18:19:25+06:00"

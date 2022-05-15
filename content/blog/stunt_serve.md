@@ -1,5 +1,5 @@
 ---
-author: Afromation Digital
+author: Ndigi
 categories:
 - LifeStyle
 date: "2021-01-25T11:35:57+06:00"
