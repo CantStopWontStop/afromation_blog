@@ -1,5 +1,5 @@
-baseURL: https://demo.gethugothemes.com/bookworm-light/
-title: Bookworm - Personal Blog Template
+baseURL: https://afromation-blog.netlify.app/
+title: Afromation - USING TECHNOLOGY TO INFORM, UNITE, AND MOBILIZE THE AFROSPHERE
 theme: bookworm-light
 paginate: '5'
 summaryLength: '20'
@@ -21,19 +21,19 @@ markup:
     renderer:
       unsafe: yes
 params:
-  author: Themefisher
+  author: Afromation DIGITAL
   contact_form_action: '#'
   cookies:
     enable: no
     expire_days: 2
-  copyright: Designed & Developed By [Gethugothemes](https://gethugothemes.com/)
+  copyright: Afromation Digitial, LLC
   description: This is meta description
-  favicon: images/favicon.png
+  favicon: images/afromation_favicon.png
   instafeed:
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
     enable: no
     instagram_user: bookworm
-  logo: images/logo.png
+  logo: images/afromation_logo.png
   logo_width: 200px
   mainSections: blog
   plugins:
@@ -53,14 +53,12 @@ params:
     preloader: ''
   search: yes
   social:
-    - icon: lab la-facebook-f
-      url: https://www.facebook.com/
+    - icon: las la-laptop
+      url: https://www.afromation.io/
     - icon: lab la-twitter
-      url: https://www.twitter.com/
+      url: https://twitter.com/afromation_io
     - icon: lab la-instagram
-      url: https://www.instagram.com/
-    - icon: lab la-linkedin-in
-      url: https://www.linkedin.com/
+      url: https://www.instagram.com/afromation.io/
   subscription:
     enable: yes
     input_placeholder: Enter your email
@@ -69,8 +67,8 @@ params:
     title: Subscribe for our monthly newsletter.
   variables:
     black: '#000000'
-    color_primary: '#01AD9F'
-    dark: '#152035'
+    color_primary: '#c41a1c'
+    dark: '#000000'
     font_primary: Mulish
     gray: '#747577'
     h1: 64px
@@ -93,30 +91,21 @@ menu:
     - name: Authors
       url: author/
       weight: 2
-    - name: Privacy
-      url: privacy/
-      weight: 3
-    - name: Terms & Conditions
-      url: terms-conditions/
-      weight: 4
   main:
     - name: Home
       url: /
       weight: 1
     - name: About
       url: about/
-      weight: 3
+      weight: 2
     - name: Contact
       url: contact/
-      weight: 4
-    - name: Buy Premium
-      url: https://gethugothemes.com/products/bookworm/
-      weight: 5
+      weight: 3
     - hasChildren: yes
       name: Pages
       url: '#'
-      weight: 6
-    - name: Author
+      weight: 4
+    - name: Authors
       parent: Pages
       url: author/
       weight: 1
@@ -132,11 +121,3 @@ menu:
       parent: Pages
       url: elements/
       weight: 4
-    - name: Privacy
-      parent: Pages
-      url: privacy/
-      weight: 5
-    - name: Terms & Conditions
-      parent: Pages
-      url: terms-conditions/
-      weight: 6

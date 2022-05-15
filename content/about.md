@@ -1,9 +1,9 @@
 ---
 caption:
   enable: true
-  title: I’m Henara Colii, A content writer based in LDN, currently at Bookworm.
+  title: Bridging Pan-Africa
 draft: false
-image: images/about.jpg
+image: images/about.png
 layout: about
 social:
   enable: true
@@ -20,20 +20,15 @@ title: About
 what_i_do:
   enable: true
   item:
-  - description: Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus
-      eget ipsum elementum venenatis.
+  - description: Summarizing concepts developed by African thought leaders and demonstrating real-world application 
     icon: las la-pen-nib
-    title: Content Writing
-  - description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
-      non purus eget ipsum elementum venenatis.
-    icon: las la-camera
-    title: Photography
-  - description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
-      non purus eget ipsum elementum venenatis.
-    icon: lar la-snowflake
-    title: Web Research
-  title: What I Do
+    title: Blog
+  - description: Using data to highlight African issues
+    icon: las la-chart-bar
+    title: Data Visualization
+  - description: Coordinating Africa and her diaspora to achieve freedom in our lifetime
+    icon: las la-sitemap
+    title: Mobilization
 ---
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
+DIGITAL REPORTS TO INFORM, UNITE, AND MOBILIZE AFRICA AND HER DIASPORA
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
