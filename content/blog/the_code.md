@@ -4,21 +4,25 @@ categories:
 - LifeStyle
 date: "2021-02-05T16:56:47+06:00"
 description: meta description
-draft: true
+draft: false
 image: images/post/mark-duffel-U5y077qrMdI-unsplash.jpg
 tags:
 - Diy
 - Toy
 title: The Code
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+# Introduction 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## What is the code? 
 
-### Creative Design
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+-   Neely Fuller
 
->Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+-    Claude Anderson
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+# Summary Scenarios (Real/Hypothetical) 
+
+# Takeaways

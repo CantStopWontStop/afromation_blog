@@ -4,7 +4,7 @@ categories:
 - LifeStyle
 date: "2021-01-25T11:33:57+06:00"
 description: meta description
-draft: true
+draft: false
 image: images/post/03.jpg
 tags:
 - Alarm
