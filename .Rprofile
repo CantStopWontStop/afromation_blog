@@ -21,3 +21,8 @@ options(
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.93.3")
+
+options(blogdown.new_bundle = FALSE,
+        blogdown.author = "Ndigi",
+        blogdown.ext = '.Rmd',
+        blogdown.subdir	 = "content/blog")  

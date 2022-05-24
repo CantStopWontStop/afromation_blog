@@ -7,8 +7,7 @@ description: meta description
 draft: false
 image: images/post/samuel-aboh-YpHa1VyFbt0-unsplash.jpg
 tags:
-- Diy
-- Toy
+- Culture
 title: To Serve or to Stunt
 ---
 
@@ -26,7 +25,7 @@ Stunting is not a bad thing. Neither is celebrating your victories, enjoying the
 
 What the Afrosphere[^1] must understand is that the better off we as a race are, the better off we as individuals are. All of your success and security is threatened directly or indirectly ...
 
-[^1]: Black people
+[^1]: People of African descent on the continent and in the diaspora; Black people
 
 Congrats on that acceptance letter or graduation! Join sorority or fraternities Entrepreneurs Politicians
 
@@ -54,6 +53,3 @@ Whom?
 
 -   Those with potential
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
