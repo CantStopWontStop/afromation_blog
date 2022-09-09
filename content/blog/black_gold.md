@@ -4,7 +4,7 @@ categories:
 - LifeStyle
 date: "2021-02-03T16:56:47+06:00"
 description: meta description
-draft: false
+draft: true
 image: images/post/zlataky-cz-y7jRMXOz7pE-unsplash.jpg
 tags:
 - Alarm

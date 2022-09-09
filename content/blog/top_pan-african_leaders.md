@@ -4,7 +4,7 @@ categories:
 - Leadership
 date: "2021-01-25T11:35:57+06:00"
 description: meta description
-draft: false
+draft: true
 image: images/post/samuel-aboh-YpHa1VyFbt0-unsplash.jpg
 tags:
 - Leadership

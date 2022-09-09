@@ -4,7 +4,7 @@ categories:
 - LifeStyle
 date: "2022-05-24T16:56:47+06:00"
 description: meta description
-draft: false
+draft: true
 image: images/post/about.png
 tags:
 - Culture
